@@ -1,3 +1,6 @@
 this is new file test.
-
 Additional new line.
+
+This file is store testing commands used for GIT.
+like -> git status
+git add --all
